@@ -1,6 +1,6 @@
 # 📚 Bibliotheque Universitaire en Ligne
 
-A modern, full-stack online university library management platform.
+A modern, full-stack online university library management platfor.
 
 Students can search the catalog, reserve books, track borrows, and receive email reminders.  
 Librarians and admins manage the catalog, students, reservations, loans, and analytics.
