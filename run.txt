@@ -1,0 +1,7 @@
+# Dev (no install needed — uses H2)
+cd backend; mvn spring-boot:run
+cd frontend; npm install; npm run dev
+# Open http://localhost:5173, login as admin@biblio.local / Admin@123
+
+# Production stack
+docker compose up --build
