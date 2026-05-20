@@ -63,7 +63,7 @@ Librarians and admins manage the catalog, students, reservations, loans, and ana
 - Spring Boot 3.3
 - Spring Security + JWT
 - Spring Data JPA
-- MySQL / H2 Database
+- H2 Database
 - Spring Mail
 - Thymeleaf
 - Swagger OpenAPI
